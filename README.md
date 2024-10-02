@@ -8,8 +8,8 @@
   - [File permissions in Linux](https://github.com/jaylenfalcon/FilePermissionLinux)
 - <b>SQL</b>
   - [Apply filters to SQL queries](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>Microsoft Azure</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Microsoft Azure and Sentinel</b>
+  - [Microsoft Azure and Sentinel SIEM Lab](https://github.com/joshmadakor1/EncrypterPOC)
 
 <h2> 🤳 Connect with me:</h2>
 
