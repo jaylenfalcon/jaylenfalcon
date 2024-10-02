@@ -5,7 +5,7 @@
 - <b>Python</b>
   - [Update a file through a Python algorithm](https://github.com/jaylenfalcon/ActiveDirectoryLab/tree/main)
 - <b>Linux</b>
-  - [File permissions in Linux](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [File permissions in Linux](https://github.com/jaylenfalcon/FilePermissionLinux)
 - <b>SQL</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
