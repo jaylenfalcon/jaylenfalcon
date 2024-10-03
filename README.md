@@ -1,5 +1,5 @@
 <h1>Hi, I'm Jaylen!</h1>
-<br/>Welcome to my cybersecurity portfolio! I’m an entry-level cybersecurity analyst with a strong passion for protecting digital assets and ensuring the security of networks, systems, and data. With a foundation in threat analysis, vulnerability assessment, and incident response, I am committed to identifying and mitigating cyber risks. This portfolio showcases my hands-on experience with security tools, industry certifications, and projects that demonstrate my skills in safeguarding organizations from evolving cyber threats.<br>
+<br/>Welcome to my portfolio! I’m an entry-level cybersecurity analyst with a strong passion for protecting digital assets and ensuring the security of networks, systems, and data. With a foundation in threat analysis, vulnerability assessment, and incident response, I am committed to identifying and mitigating cyber risks. This portfolio showcases my hands-on experience with security tools, industry certifications, and projects that demonstrate my skills in safeguarding organizations from evolving cyber threats.<br>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Python</b>
