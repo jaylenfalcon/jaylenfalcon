@@ -9,7 +9,7 @@
 - <b>SQL</b>
   - [Apply filters to SQL queries](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Microsoft Azure and Sentinel</b>
-  - [Microsoft Azure and Sentinel SIEM Lab](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Microsoft Azure and Sentinel SIEM Lab](https://github.com/jaylenfalcon/AzureSIEMLab)
 
 <h2> 🤳 Connect with me:</h2>
 
