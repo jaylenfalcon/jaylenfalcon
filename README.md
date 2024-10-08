@@ -10,6 +10,8 @@
   - [Apply filters to SQL queries](https://github.com/jaylenfalcon/ApplyFiltersToSQL)
 - <b>Microsoft Azure and Sentinel</b>
   - [Microsoft Azure and Sentinel SIEM Lab](https://github.com/jaylenfalcon/AzureSIEMLab)
+- <b>Security Audit and Security Risk Assessment</b>
+  - [Botium Toys Security Audit and Risk Assessment](https://github.com/jaylenfalcon/SecurityRiskAssessment)
 
 <h2> 🤳 Connect with me:</h2>
 
